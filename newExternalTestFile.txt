@@ -3,3 +3,5 @@ This is a new file from an external contributor
 This is an addition from repository owner
 
 This is a second addition from external contributor
+
+This is a third addition from external contributor
